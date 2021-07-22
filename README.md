@@ -1,4 +1,4 @@
-#Galaxy Project
+# Galaxy Project
 
 This website explains the planets of our Solar system, the types of Galaxies, the type of Black Holes, and how gravity works. Also you can view a video about each topic.
 
